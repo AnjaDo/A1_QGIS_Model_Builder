@@ -1,9 +1,36 @@
 
-1. What ist the Topographic Wetness Index?
+1. Answer the following questions:
+
+	1. What ist the Topographic Wetness Index?
 
 Der TWI beschreibt Lage und Größe eines gesättigten Bereichs eines Untersuchungsgebietes. Mit Hilfe des TWI können somit hochwassergefährdete Bereiche ausfindig gemacht werden.
 
-2. How are the TWI values related to the flood probability?
+	2. How are the TWI values related to the flood probability?
 
 Bereiche bzw. Zellen in denen sich Wasser ansammeln (solche mit geringem Neigungswinkel) werden entsprechen mit hohen TWI Werten ausgewiesen. Jene Bereiche entsprechen also einer hohen Überflutungswahrscheinlichkeit.
+
+
+2. Search for FOSS GIS tools to calculate the TWI
+
+SAGA GIS
+Einzelnes Tool: Terrain Analysis - Hydrology - Topographic Wetness Index (TWI)
+oder aber auch über 
+a.) Flow Accumulation (Top-Down) tool
+b.) Flow Accumulation (Recursive) tool
+c.) Flow Accumulation (Flow Tracing)tool
+
+
+In der GRASS GIS Umgebung gibt es die Möglichkeit den TWI mit Hilfe der folgenden Tools zu berechnen:
+a.) r.topidx
+b.) r. watershed
+c.) r. terraflow
+
+Whitebox GAT
+via Wetness Index tool
+
+QGIS Plugin: QGISRED
+ 
+Referenz: https://link.springer.com/article/10.1186/s40965-019-0066-y
+
+
 
