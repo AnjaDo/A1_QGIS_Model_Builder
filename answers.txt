@@ -1,0 +1,9 @@
+
+1. What ist the Topographic Wetness Index?
+
+Der TWI beschreibt Lage und Größe eines gesättigten Bereichs eines Untersuchungsgebietes. Mit Hilfe des TWI können somit hochwassergefährdete Bereiche ausfindig gemacht werden.
+
+2. How are the TWI values related to the flood probability?
+
+Bereiche bzw. Zellen in denen sich Wasser ansammeln (solche mit geringem Neigungswinkel) werden entsprechen mit hohen TWI Werten ausgewiesen. Jene Bereiche entsprechen also einer hohen Überflutungswahrscheinlichkeit.
+
